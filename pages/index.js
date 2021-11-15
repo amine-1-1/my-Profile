@@ -76,7 +76,7 @@ const Home = () => (
           
         </Paragraph>
           <Paragraph>
-          Well-organised, confident problem solver with high attention to detail. 
+          Well-organised, confident problem solver with high attention to details. 
           I am also a Fan of Camping, Gaming, TV series and English literature.
           
         </Paragraph>
