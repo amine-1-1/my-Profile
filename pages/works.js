@@ -57,10 +57,6 @@ const Works = () => (
         <Heading as="h3" variant="section-title">
           Skills
         </Heading>
-        <Paragraph>
-          while throughout my expirences 
-        </Paragraph>
-        
       </Section>
       <Section delay={0.1}>
         <SimpleGrid columns={[1, 2, 2]} gap={6}>
