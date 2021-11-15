@@ -33,7 +33,7 @@ const Posts = () => (
             to communicate between them: Quarkus, SpringBoot, React, RabbitMQ, MongoDB, ELK.
         </Paragraph>
           <Paragraph>
-          • created a web application to manage stocks.
+         • created a web application to manage stocks.
             </Paragraph>
             
         </BioSection>
