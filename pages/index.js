@@ -67,10 +67,10 @@ const Home = () => (
         </Heading>
         <Paragraph>
           I&apos;m a software engineering student located in Tunisia, I am passionate 
-          about web development and dev ops.
+          about web development and DevOps.
           </Paragraph>
           <Paragraph>
-          I am also an enterpreneur ,I co-founded <Link href="https://www.instagram.com/karhabti.app/?hl=fr" target="_blank">
+          I am also an entrepreneur, I co-founded <Link href="https://www.instagram.com/karhabti.app/?hl=fr" target="_blank">
           Karhabti </Link>
           a mobile application that helps users manage their cars. 
           
@@ -99,7 +99,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2017</BioYear>
-          Optained my Bachelor degree in Mathematics.
+          Obtained my Bachelor degree in Mathematics.
         </BioSection>
         <BioSection>
           <BioYear>2017 to 2019</BioYear>
@@ -107,7 +107,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2019 to present</BioYear>
-          Studying in the National Engineering School of Sousse (Eniso) 
+          Studying in the National Engineering School of Sousse (Eniso). 
         </BioSection>
       </Section>
 
