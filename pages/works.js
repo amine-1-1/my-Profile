@@ -20,7 +20,7 @@ const Works = () => (
       
       <Section delay={0.2}>
         <Heading as="h3" variant="section-title">
-          Expirence
+          Experience
         </Heading>
         <BioSection>
           <BioYear> Jul 2021- sep 2021</BioYear>
