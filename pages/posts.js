@@ -17,7 +17,7 @@ const Posts = () => (
         <Paragraph>
         
         The courses at my engineering school allowed me to learn several
-         tools that encourage me to pursue a career in full stack development:
+         tools that encouraged me to pursue a career in full stack development :
         Out of my academic training I am a dynamic,
          motivated person always seeks to improve my competence that&apos;s why I participated in several competitions as a web developer (OSTx, second prize) and 
         I worked freelance for a year where I created websites for doctors.         
@@ -38,7 +38,7 @@ const Posts = () => (
             
         </BioSection>
         <BioSection>
-          <BioYear>Eniso Smart Park:</BioYear>
+          <BioYear>Eniso Smart Park :</BioYear>
           <Paragraph>
           • created a mobile application that helps the user to recognize empty
             spaces in advance.
@@ -49,15 +49,15 @@ const Posts = () => (
         </Paragraph>
         </BioSection>
         <BioSection>
-          <BioYear>School Management System:</BioYear>
+          <BioYear>School Management System :</BioYear>
             <Paragraph>
-            Web App Application, help administration , students and teachers
-            in their daily tasks giving assignments,grading students ,managing
-            teachers contracts etc . Built withlaravel ,bootstrap and PWA
+           • Web App Application, help administration, students and teachers
+            in their daily tasks giving assignments, grading students, managing
+            teachers contracts etc. Built withlaravel, bootstrap and PWA.
         </Paragraph>
         </BioSection>
         <BioSection>
-          <BioYear>Car Care:</BioYear>
+          <BioYear>Car Care :</BioYear>
           <Paragraph>
           • created a mobile application that helps users to manage their cars.
             </Paragraph>
