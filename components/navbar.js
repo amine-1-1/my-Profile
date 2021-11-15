@@ -71,7 +71,7 @@ const Navbar = props => {
           mt={{ base: 4, md: 0 }}
         >
           <LinkItem href="/works" path={path}>
-            Expirence&Skills
+            Expeirence&Skills
           </LinkItem>
           <LinkItem href="/posts" path={path}>
             Projects
