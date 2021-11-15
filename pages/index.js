@@ -66,7 +66,7 @@ const Home = () => (
           About Me
         </Heading>
         <Paragraph>
-          I'm a software engineering student located in tunisa ,I have a serious passion
+          II&apos;m a software engineering student located in tunisa ,I have a serious passion
           about web development and dev ops.
           </Paragraph>
           <Paragraph>
