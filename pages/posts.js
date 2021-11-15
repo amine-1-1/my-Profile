@@ -19,7 +19,7 @@ const Posts = () => (
         The courses at my engineering school allowed me to learn several
          tools that encourage me to pursue a career in full stack development:
         Out of my academic training I am a dynamic,
-         motivated person always seeks to improve my competence that's why I participated in several competitions as a web developer (OSTx, second prize) and 
+         motivated person always seeks to improve my competence that&apos;s why I participated in several competitions as a web developer (OSTx, second prize) and 
         I worked freelance for a year where I created websites for doctors.         
         </Paragraph>
         <Section delay={0.2}>
