@@ -32,7 +32,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hello, I&apos;m a Engineering student
+        Hello, I&apos;m an Engineering student
       </Box>
 
       <Box display={{ md: 'flex' }}>
@@ -66,18 +66,18 @@ const Home = () => (
           About Me
         </Heading>
         <Paragraph>
-          II&apos;m a software engineering student located in tunisa ,I have a serious passion
+          I&apos;m a software engineering student located in Tunisia, I am passionate 
           about web development and dev ops.
           </Paragraph>
           <Paragraph>
           I am also an enterpreneur ,I co-founded <Link href="https://www.instagram.com/karhabti.app/?hl=fr" target="_blank">
           Karhabti </Link>
-          a mobile application that helps user manage their cars 
+          a mobile application that helps users manage their cars. 
           
         </Paragraph>
           <Paragraph>
-          Well-organised person, problem solver, with high attention to detail. 
-          Fan of Camping,Gaming ,TV series and English literature.
+          Well-organised, confident problem solver with high attention to detail. 
+          I am also a Fan of Camping, Gaming, TV series and English literature.
           
         </Paragraph>
         <Box align="center" my={4}>
@@ -99,15 +99,15 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2017</BioYear>
-          Optiened my Bachelor degree in Mathematics 
+          Optained my Bachelor degree in Mathematics.
         </BioSection>
         <BioSection>
           <BioYear>2017 to 2019</BioYear>
-          Completed my undergradute in the Preparatory Institut of Engineering Studies inMonastir
+          Completed my undergradute in the Preparatory Institut of Engineering Studies in Monastir.
         </BioSection>
         <BioSection>
           <BioYear>2019 to present</BioYear>
-          Studing in the National Engenirng School of Sousse (Eniso) 
+          Studying in the National Engineering School of Sousse (Eniso) 
         </BioSection>
       </Section>
 
@@ -116,7 +116,7 @@ const Home = () => (
           I ♥
         </Heading>
         <Paragraph>
-          Art, Music, Drawing, Camping
+          Art, Music, Camping
         </Paragraph>
       </Section>
 
